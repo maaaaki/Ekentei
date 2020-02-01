@@ -6,3 +6,5 @@ mnist_784
 3/mnist_784
 4/mnist_784
 5/embedder*
+5/data.pkl
+5/ptb*
